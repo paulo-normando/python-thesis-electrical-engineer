@@ -1,3 +1,5 @@
+[Finished]
+
 # python-thesis-electrical-engineer
 Defense thesis for the degree in electrical engineering
 
