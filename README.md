@@ -7,4 +7,4 @@ This work presents a reliability calculation tool for a device at a given time i
 
 Keywords: Data Science, Reliability, Maintenance Engineering, Google Collaboratory Research, Python, Mining, Kaolin.
 
-![Uploading hitpaw-1657973143000_AdobeExpress.gif…]()
+![hitpaw-1657973143000_AdobeExpress](https://user-images.githubusercontent.com/91965545/179354524-fc273ca1-3dbd-421d-ae6f-158d57ae1150.gif)
